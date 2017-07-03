@@ -4,6 +4,12 @@ Guardian interactive ES6 template
 An interactive template & test harness, set up with commonly used components and example code
 
 Usage
+====
+
+To invert the Guardian's logo in an immersive, add this bootscript in composer
+`https://interactive.guim.co.uk/2017/july/3/bootscript-invert-logo/boot.js`
+
+Editing the script
 =====
 
 Setup
