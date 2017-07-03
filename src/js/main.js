@@ -9,5 +9,4 @@ var data;
 var comingSoonIndex = 0;
 
 export function init(dom, context, config, mediator) {
-    console.log('bootscript loaded');
 }
